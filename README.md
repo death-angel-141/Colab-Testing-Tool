@@ -1,5 +1,4 @@
-# OneClickRun <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fbiplobsd%2FOneClickRun" alt="Hits">
-
+# OneClickRun
 <b>Features:</b><br>
 `Jellyfin, aria2, ariang, rclone, rclone WebUI, Netdata, Cloud Commander, 
 Ssh, noVnc, filebrowser, SocialFish, L3MON, SayCheese, spotify-downloader, pyLoad, code-server, V2ray, NoMachine, Flutter, Glances, WeTTy, Kivy, go-http-file-server...`
